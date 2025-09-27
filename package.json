@@ -1,0 +1,6 @@
+{
+     "name": "n8n-sharp-custom",
+     "dependencies": {
+       "sharp": "^0.32.0"
+     }
+   }
